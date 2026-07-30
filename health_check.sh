@@ -9,7 +9,7 @@ echo "==========================="
 
 echo ""
 echo "hostname"
-hostnamectl
+hostname && hostnamectl
 
 echo ""
 echo "current date and time"
