@@ -8,7 +8,7 @@ echo " Linux server health check "
 echo "==========================="
 
 echo ""
-echo "hostname"
+echo "hostname and details"
 hostname && hostnamectl
 
 echo ""
